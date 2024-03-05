@@ -1,0 +1,16 @@
+fastapi==0.101.1
+uvicorn==0.23.2
+PyJWT==2.8.0
+python-jose==3.3.0
+passlib==1.7.4
+python-multipart==0.0.6
+
+# async http requests & fast dns resolving
+aiohttp==3.8.5
+aiodns==3.0.0
+
+# for test purposes
+flake8==6.1.0
+ipdb==0.13.13
+ipython==7.31.1
+
